@@ -1,3 +1,14 @@
+## update [2020.02.15]
+
+**version:** [Latest commit 96303c0 on May 10, 2019](https://github.com/SintefManufacturing/python-urx/tree/96303c0de7df46ebc6dede562ee9f4b1c34f2504)
+
+There are some bugs need to fix in the rep.
+
+- [[Issue] Error when using speedj, "speedj() got an unexpected keyword argument 't_min'" #73](https://github.com/SintefManufacturing/python-urx/issues/73#issuecomment-555387672)
+- [[Issue] Solve unclosed socket connection on fail #82](https://github.com/SintefManufacturing/python-urx/pull/82)
+
+## python-urx
+
 urx is a python library to control the robots from [Universal Robots](https://www.universal-robots.com/). It is published under the LGPL license and comes with absolutely no guarantee.
 
 It is meant as an easy to use module for pick and place operations, although it has been used for welding and other sensor based applications that do not require high control frequency.
