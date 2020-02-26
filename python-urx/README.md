@@ -6,6 +6,8 @@ There are some bugs need to fix in the rep.
 
 - [[Issue] Error when using speedj, "speedj() got an unexpected keyword argument 't_min'" #73](https://github.com/SintefManufacturing/python-urx/issues/73#issuecomment-555387672)
 - [[Issue] Solve unclosed socket connection on fail #82](https://github.com/SintefManufacturing/python-urx/pull/82)
+- [[Issue] Change speedx method to RT data stream EXAMPLE #79](https://github.com/SintefManufacturing/python-urx/pull/79)
+
 
 ## python-urx
 
